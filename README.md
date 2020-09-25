@@ -10,5 +10,3 @@
 | $$  | $$| $$$$$$$$ /$$$$$$| $$  | $$|  $$$$$$/
 |__/  |__/|________/|______/|__/  |__/ \______/ 
 ```
-
-This profile has repos containing projects I worked on in order to improve my programming skills.
